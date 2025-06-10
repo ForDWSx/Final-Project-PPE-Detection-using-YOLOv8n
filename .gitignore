@@ -4,5 +4,7 @@ labels
 *.pt
 !best.pt
 predictions
-model2.ipynb_checkpoints
+model2.ipynb
 *.mp4
+runs
+classification_report.txt
