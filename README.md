@@ -1,0 +1,2 @@
+# Term-Project-PPE-Detection-using-YOLOv8n
+This project purpose is for NTU Deep Learning and Computer Vision class final individual project. The goal of this project is to be able to detect PPE (Personal protective equipment) in 3 different classes including of helmets, vests, and heads.
