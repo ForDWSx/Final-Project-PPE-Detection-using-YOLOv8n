@@ -1,0 +1,9 @@
+path: c:/WORK STUFF LOL/NTU file/NTU file/NTU courses/3rd year/Deep learning/Individual Project3/Hard Hat - Vest
+train: images/train
+val: images/val
+test: images/test
+nc: 3
+names:
+  0: helmet
+  1: vest
+  2: head

@@ -1,0 +1,8 @@
+images
+labels
+.ipynb_checkpoints
+*.pt
+!best.pt
+predictions
+model2.ipynb_checkpoints
+*.mp4
